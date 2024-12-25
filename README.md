@@ -1,2 +1,2 @@
 # PHP24 Curso de PHP
-Vamos 
+Vamos si podemos
