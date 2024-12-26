@@ -3,4 +3,4 @@ Curso de PHP
 Vamos si podemos
 Comits
 El estfecho
-El 24 del
+El 24 de
