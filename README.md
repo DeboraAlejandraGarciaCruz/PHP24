@@ -3,4 +3,4 @@ Curso de PHP
 Vamos si podemos
 Comits
 El estfecho
-El 24 del dia 24
+El 24 del dia
