@@ -1,4 +1,4 @@
-2# PHP24 
+32# PHP24 
 Curso de PHP
 Vamos si podemos
 Comits
